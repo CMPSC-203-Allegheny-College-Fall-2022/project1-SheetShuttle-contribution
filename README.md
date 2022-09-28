@@ -77,7 +77,7 @@ _Please note that if you took a role of a **scrum lead**, although you are expec
 
 ## Code of Conduct
 
-Throughout the completion of this software engineering project you must adhere to the code of conduct that we developed as part of a previous laboratory assignment. In addition to reporting any violations of the code of conduct, please make sure that you attest to the fact that you followed the code of conduct. That is, make sure you have signed the Code of Conduct document in its repository. Students who think that the software engineering team should revise some aspect of the code of conduct must use the GitHub issue tracker for that repository to suggest, discuss, and implement any required changes.
+Throughout the completion of this software engineering project you must adhere to the code of conduct that we developed as part of a previous laboratory assignment. To report any violations of the code of conduct, please submit an [anonymous form](https://forms.gle/vmwMwmrDEgq7yszK9). Students who think that the software engineering team should revise some aspect of the code of conduct must use the GitHub issue tracker for that repository to suggest, discuss, and implement any required changes.
 
 ## Process
 
