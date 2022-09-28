@@ -1,8 +1,6 @@
 # Project 1: Contributing to SheetShuttle
 
-## Due: Thursday, October 13th, 2022 at 11 am
-
-### Deliverable Due Dates
+## Deliverable Due Dates
 
 Activity             | Deadline
 -------------------- | ---------------------------------------------------------------------
@@ -107,7 +105,7 @@ During stand-up meetings, each team member should take one or two minutes to ans
 2. What will I work on until the next stand-up?
 3. Am I blocked by anything?
 
-## Team Presentation
+### Team Presentation
 
 At the end of this short-term project, your team will prepare an 8-to-10-minute presentation to showcase your team's work on SheetShuttle. This presentation will be followed by a 5-minute question and answer (Q & A) session. Your presentation should include:
 
@@ -134,11 +132,11 @@ During sprint retrospective meetings, your team should engage in the following a
 
 You should first familiarize yourself with SheetShuttle by reading the documents Noor Buchi prepared about the project:
 
-1. [Getting started document]
-2. [SheetShuttle README]
-3. [Schemas]
-4. [API setup guide]
-5. [Tutorial]
+1. [Getting started document](https://github.com/GatorEducator/SheetShuttle/blob/main/docs/getting_started.md)
+2. [SheetShuttle README](https://github.com/GatorEducator/SheetShuttle)
+3. [Schemas](https://github.com/GatorEducator/SheetShuttle/blob/main/docs/schemas.md)
+4. [API setup guide](https://github.com/GatorEducator/SheetShuttle/blob/main/docs/Google_API_Setup.md)
+5. [Tutorial](https://github.com/GatorEducator/SheetShuttle/blob/main/docs/tutorial.md)
 
 Please note that SheetShuttle uses several Python dependencies and other tools, which you will get to know more during our class and lab sessions:
 
@@ -156,10 +154,6 @@ After reading the documentation, you should try to run SheetShuttle by
 
 - installing the dependencies using `poetry install`, and
 - running `poetry run sheetshuttle run`, which will run the default `hello world` plugin (it should print out `hello` from the default plugin to your console).
-
-## Receiving Assistance
-
-If you are having trouble completing any part of this assignment, then please talk with either the course instructor or a student technical leader during the lab session. Alternatively, you may ask questions in the Discord channel for this course. Finally, you can schedule a meeting during the course instructor's office hours.
 
 ## Assessment
 
@@ -185,3 +179,7 @@ You can check the baseline requirements of this project by running department's 
 Finally, you can run `gatorgrade`:
 
 `gatorgrade --config config/gatorgrade.yml`
+
+## Receiving Assistance
+
+If you are having trouble completing any part of this assignment, then please talk with either the course instructor or a student technical leader during the lab session. Alternatively, you may ask questions in the Discord channel for this course. Finally, you can schedule a meeting during the course instructor's office hours.
