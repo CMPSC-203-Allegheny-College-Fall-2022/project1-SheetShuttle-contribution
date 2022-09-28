@@ -53,7 +53,7 @@ In this short-term project, you will contribute to the [SheetShuttle](https://gi
 
 - You contributed to your scrum lead's management of the GitHub project board.
 
-_Please note that if you took a role of a **scrum lead**, although you are expected to contribute to development, you are not expected to contribute to implementation as much as your development team since your main tasks include organizing meetings, making sure everyone is on track (help resolve issues as needed), checking in with your product owner to keep them informed, and organizing project board with input from your team, the chief scrum lead, and product owners (TLs). Additionally, if you are a_ chief scrum lead_, you will need to communicate with all scrum leads to ensure proper collaboration and avoidance of conflicts among the work done by all teams._
+Please note that if you took a role of a **scrum lead**, although you are expected to contribute to development, you are not expected to contribute to implementation as much as your development team since your main tasks include organizing meetings, making sure everyone is on track (help resolve issues as needed), checking in with your product owner to keep them informed, and organizing project board with input from your team, the chief scrum lead, and product owners (TLs). Additionally, if you are a _chief scrum lead_, you will need to communicate with all scrum leads to ensure proper collaboration and avoidance of conflicts among the work done by all teams.
 
 ## Objectives
 
