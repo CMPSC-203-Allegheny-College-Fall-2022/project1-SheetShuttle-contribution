@@ -31,7 +31,7 @@ Spring Retrospective | October 14th, 2022 at 11:59pm
 
 ## Summary
 
-In this short-term project, you will contribute to the SheetShuttle tool by resolving one of the issues in its issue tracker. To receive full points for this assignment, you should create a pull request and see that it is merged into the main branch of SheetShuttle. As part of this assignment, you should also answer all of the questions in the `report.md` file, furnishing evidence of your contributions to this week's effort towards completing the short-term software engineering project. Before the due date for this project assignment, please ensure that:
+In this short-term project, you will contribute to the [SheetShuttle](https://github.com/GatorEducator/SheetShuttle) tool by resolving one of the issues in its issue tracker. To receive full points for this assignment, you should create a pull request and see that it is merged into the main branch of SheetShuttle. As part of this assignment, you should also answer all of the questions in the `report.md` file, furnishing evidence of your contributions to this week's effort towards completing the short-term software engineering project. Before the due date for this project assignment, please ensure that:
 
 - You are able to build, test, and use the current version of SheetShuttle.
 
