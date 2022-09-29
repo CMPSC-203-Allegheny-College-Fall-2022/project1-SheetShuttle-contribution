@@ -10,8 +10,8 @@ Stand-up meeting 2   | October 6th during class
 Stand-up meeting 3   | On your own time (must be spread out between other stand-up meetings)
 Stand-up meeting 4   | On your own time (must be spread out between other stand-up meetings)
 Team Presentation    | October 13th, 2022 at 11am
-Spring Review        | October 14th, 2022 at 11:59pm
-Spring Retrospective | October 14th, 2022 at 11:59pm
+Sprint Review        | October 14th, 2022 at 11:59pm
+Sprint Retrospective | October 14th, 2022 at 11:59pm
 
 ## Table of Contents
 
